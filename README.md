@@ -1,1 +1,1 @@
-# -CTR-
+# Lightweight CTR prediction system
